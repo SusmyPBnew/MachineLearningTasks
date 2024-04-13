@@ -1,4 +1,4 @@
-# MachineLearningTasks1
+# ML Task - 1
 
 ### Question1
 You are given house_price.csv which contains property prices in the city of Bangalore. You need to examine price per square feet do the following:
