@@ -13,7 +13,7 @@ Treat the null values in all columns using any measures(removing/ replace the va
 Filter the data with age >40 and salary<5000</br>
 Plot the chart with age and salary</br>
 Count the number of people from each place and represent it visually</p>
-<p>Data Encoding:
+<p>Data Encoding:</br>
 Convert categorical variables into numerical representations using techniques such as one-hot encoding, label encoding, making them suitable for analysis by machine learning algorithms.</p>
-<p>Feature Scaling: 
+<p>Feature Scaling: </br>
 After the process of encoding, perform the scaling of the features using standardscaler and minmaxscaler.</p>
