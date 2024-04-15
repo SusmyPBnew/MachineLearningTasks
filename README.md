@@ -1,18 +1,18 @@
 ## ML - Task4 (Regression)
 <b>Problem Description</b>
-A Chinese automobile company aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts. They have contracted an automobile consulting company to understand the factors on which the pricing of cars depends. Specifically, they want to understand the factors affecting the pricing of cars in the American market, since those may be very different from the Chinese market. Essentially, the company wants to know:
-• Which variables are significant in predicting the price of a car
-• How well those variables describe the price of a car
-Based on various market surveys, the consulting firm has gathered a large dataset of different types of cars across the American market.
-Business Goal
-You are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for the management to
-understand the pricing dynamics of a new market.
-Dataset:  Data
-Dear students,
-Apply any 5 algorithms to the regression problem provided.
-For example:
-Linear Regression
-Decision Tree Regressor
-Random Forest Regressor
-Gradient Boosting Regressor
-Support Vector Regressor
+<p>A Chinese automobile company aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts. They have contracted an automobile consulting company to understand the factors on which the pricing of cars depends. Specifically, they want to understand the factors affecting the pricing of cars in the American market, since those may be very different from the Chinese market. Essentially, the company wants to know:</p>
+<ul><li> Which variables are significant in predicting the price of a car</li>
+<li>How well those variables describe the price of a car</li></ul>
+<p>Based on various market surveys, the consulting firm has gathered a large dataset of different types of cars across the American market.</p>
+<b>Business Goal</b>
+<p>You are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for the management to
+understand the pricing dynamics of a new market.</p>
+<p>Dataset:  Data</p>
+<p>Dear students,
+Apply any 5 algorithms to the regression problem provided.</p>
+<p>For example:</p>
+<ul><li>Linear Regression</li>
+<li>Decision Tree Regressor</li>
+<li>Random Forest Regressor</li>
+<li>Gradient Boosting Regressor</li>
+<li>Support Vector Regressor</li></ul>
